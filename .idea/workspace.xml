@@ -20,19 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62a672bd-8130-41b4-a79a-b76172b459f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/balancer/round_robin.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/common.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/consul/client/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/consul/server/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/etcd3/client/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/etcd3/server/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/proto/alpha.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/registry/consul/register.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/registry/consul/resolver.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/registry/consul/watcher.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/registry/etcd3/register.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/registry/register.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/consul/client/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/consul/client/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,9 +150,9 @@
       <screen x="-273" y="-1080" width="1920" height="1080" />
     </state>
     <state x="235" y="-886" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900/-273.-1080.1920.1080@-273.-1080.1920.1080" timestamp="1611544122954" />
-    <state x="395" y="-801" width="584" height="522" key="find.popup" timestamp="1611553931650">
+    <state x="395" y="-801" width="584" height="522" key="find.popup" timestamp="1611640880980">
       <screen x="-273" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="395" y="-801" width="584" height="522" key="find.popup/0.0.1440.900/-273.-1080.1920.1080@-273.-1080.1920.1080" timestamp="1611553931650" />
+    <state x="395" y="-801" width="584" height="522" key="find.popup/0.0.1440.900/-273.-1080.1920.1080@-273.-1080.1920.1080" timestamp="1611640880980" />
   </component>
 </project>
